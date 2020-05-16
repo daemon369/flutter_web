@@ -1,6 +1,7 @@
 # flutter_web
 
-A new Flutter project.
+Website created using flutter, for fun & for study: <https://daemon369.github.io/flutter_web_publish>
+
 
 ## Getting Started
 
